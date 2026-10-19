@@ -475,6 +475,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [Cuttingfloor](https://github.com/Mvp2o-ai/cuttingfloor) - Headless video editor for AI agents: cut footage, add captions, mix audio, create motion graphics, and export. Runs locally with Docker or as a hosted OAuth MCP server.
+
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
